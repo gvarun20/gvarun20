@@ -24,11 +24,10 @@ I'm always on the lookout for exciting opportunities to apply my skills, contrib
 
 ## 🚀 Highlighted Projects
 
-### 📝 [Sentiment Analysis on Twitter Data](https://github.com/gvarun20/sentiment-analysis)
+### 📝 [Kidney-Disease-classification-MLflow]([https://github.com/gvarun20/sentiment-analysis](https://github.com/gvarun20/Kidney-Disease-classification-MLflow-DVC))
 
-- **🛠️ Tech Used**: Python, scikit-learn, NLTK
-- **📘 Summary**: Developed a machine learning model to predict the sentiment of tweets.
-- **✨ Highlights**: Achieved an impressive **92% accuracy** on the test dataset!
+- **🛠️ Tech Used**: Python, 
+- **📘 Summary**: Developed a machine learning model to classify the kidney diseases using ML Flow.
 
 ### 💡 [Customer Churn Prediction](https://github.com/gvarun20/customer-churn-prediction)
 
