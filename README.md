@@ -1,6 +1,5 @@
-# 🚀 Hi, I'm Varun Gurupurandar — A Data Science & ML Enthusiast 📊
+# 🚀 Hej, I'm Varun Gurupurandar — A Data Science & ML Enthusiast 📊
 
-![Banner](https://yourbannerlink.com/banner.png)
 
 ## 🌟 About Me
 
