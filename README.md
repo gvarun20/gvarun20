@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm [Your Name] — A Data Science & ML Enthusiast 📊
+# 🚀 Hej, I'm Varun Gurupurandar — A Data Science & ML Enthusiast 📊
 
 ![Banner](https://yourbannerlink.com/banner.png)  
 
@@ -10,7 +10,7 @@ Over the course of my journey, I’ve had the incredible opportunity to **intern
 I'm always on the lookout for exciting opportunities to apply my skills, contribute to impactful projects, and collaborate with fellow data enthusiasts. Let's turn ideas into reality together! 🚀
 
 ## 🛠️ Skills & Tools
-- **Programming & Scripting**: 🐍 Python, R, SQL  
+- **Programming & Scripting**: 🐍 Python, R, SQL ,java, C
 - **Data Analysis & Wrangling**: 🛠️ Pandas, NumPy, Jupyter, Google Colab  
 - **Data Visualization**: 📊 Matplotlib, Seaborn, Plotly, Tableau, Power BI  
 - **Machine Learning & AI**: 🤖 scikit-learn, TensorFlow, PyTorch  
@@ -40,13 +40,13 @@ I'm always on the lookout for exciting opportunities to apply my skills, contrib
 *(Note: Update with actual paper titles and links, if applicable.)*
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?gvarun20=gvarun20&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?gvarun20=gvarun20&layout=compact&theme=radical)  
 
 ## 📫 How to Reach Me
 🔗 **Let's connect!** I’m always happy to discuss data science, machine learning, or any interesting projects. Feel free to reach out to me at:  
-📧 **Email**: [yourname@example.com](mailto:yourname@example.com)  
-💼 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+📧 **Email**: [yourname@example.com](mailto:vg71276@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/varun-gurupurandar-44a181215/)  
 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
 
 ## 🔥 Let's Create Something Amazing Together! 
