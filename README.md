@@ -1,5 +1,10 @@
 # 🚀 Hej, I'm Varun Gurupurandar — A Data Science & ML Enthusiast 📊
 
+## 📈 GitHub Stats
+
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvarun20&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvarun20&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=gvarun20&style=flat-square&color=blue)
 
 ## 🌟 About Me
 
@@ -45,10 +50,7 @@ I'm always on the lookout for exciting opportunities to apply my skills, contrib
 
 *(Note: Update with actual paper titles and links, if applicable.)*
 
-## 📈 GitHub Stats
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvarun20&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvarun20&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
