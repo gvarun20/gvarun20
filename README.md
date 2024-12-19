@@ -39,15 +39,13 @@ I'm always on the lookout for exciting opportunities to apply my skills, contrib
   
 *(Note: Update with actual paper titles and links, if applicable.)*
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?gvarun20=gvarun20&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?gvarun20=gvarun20&layout=compact&theme=radical)  
+📈 GitHub Stats
 
-## 📫 How to Reach Me
-🔗 **Let's connect!** I’m always happy to discuss data science, machine learning, or any interesting projects. Feel free to reach out to me at:  
-📧 **Email**: [yourname@example.com](mailto:vg71276@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/varun-gurupurandar-44a181215/)  
-🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
+
+
+📫 How to Reach Me
+
+🔗 Let's connect! I’m always happy to discuss data science, machine learning, or any interesting projects. Feel free to reach out to me at:📧 Email: vg71276@gmail.com💼 LinkedIn: linkedin.com/in/varun-gurupurandar-44a181215/🌐 GitHub: github.com/gvarun20 
 
 ## 🔥 Let's Create Something Amazing Together! 
 Looking for an exciting opportunity in **data science, machine learning, or analytics**? I’m open to **full-time roles, freelance projects, and collaborations**. Let’s connect and make a difference! 🤝
