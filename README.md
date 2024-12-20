@@ -49,7 +49,7 @@ I'm always on the lookout for exciting opportunities to apply my skills, contrib
   - **[Exploring the Cosmos with Machine Learning: Advancements in Astronomical Data Processing](https://ieeexplore.ieee.org/document/10594475)**  
 *Published in: IEEE, Year:2024*  
 
-*(Note: Update with actual paper titles and links, if applicable.)*
+
 
 
 
