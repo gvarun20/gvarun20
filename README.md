@@ -44,8 +44,10 @@ I'm always on the lookout for exciting opportunities to apply my skills, contrib
 ## 📜 Publications
 
 - **Published Research Papers in IEEE Journals** 📚
-  - **[Title of Paper 1](#)** — Key takeaways, findings, or focus of the paper
-  - **[Title of Paper 2](#)** — Key takeaways, findings, or focus of the paper
+  - **[A Novel Approach for Monitoring the Freshness of Vegetables Under Storage Using Internet of Things and Machine Learning in Varying Temperature Conditions](https://ieeexplore.ieee.org/document/10244870)**  
+*Published in: IEEE, Year:2023*
+  - **[Exploring the Cosmos with Machine Learning: Advancements in Astronomical Data Processing](https://ieeexplore.ieee.org/document/10594475)**  
+*Published in: IEEE, Year:2024*  
 
 *(Note: Update with actual paper titles and links, if applicable.)*
 
